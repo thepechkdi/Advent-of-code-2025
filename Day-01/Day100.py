@@ -3,7 +3,6 @@ def solve_from_file(filename: str) -> int:
         rotations = f.readlines()
     return solve(rotations)
 
-
 def solve(rotations: list[str]) -> int:
     position = 50
     count_zero = 0
@@ -32,3 +31,4 @@ def solve(rotations: list[str]) -> int:
 if __name__ == "__main__":
     answer = solve_from_file("input.txt")
     print("Password:", answer)
+
