@@ -1,5 +1,5 @@
 # Advent of Code 2025 - Python Solutions
-<p align="center"> <img src="https://img.shields.io/badge/Language-Python_3.10+-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Progress-4%2F25_days-green?style=for-the-badge" /> <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" /> </p>
+<p align="center"> <img src="https://img.shields.io/badge/Language-Python_3.10+-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Progress-12%2F12_days-green?style=for-the-badge" /> <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" /> </p>
 
 Welcome to my Advent of Code 2025 repository!
 This project contains my daily Python solutions for the Advent of Code challenges, focusing on:
