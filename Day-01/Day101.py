@@ -5,7 +5,7 @@ def solve_part2(rotations: list[str]) -> int:
     for line in rotations:
         line = line.strip()
         if not line:
-            continue   
+            continue
 
         direction = line[0]       
         distance = int(line[1:]) 
@@ -37,3 +37,4 @@ def solve_part2_file(filename: str) -> int:
 if __name__ == "__main__":
     answer = solve_part2_file("input.txt")
     print("Password (method 0x434C49434B):", answer)
+
