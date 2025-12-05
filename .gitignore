@@ -1,0 +1,67 @@
+# ---------------------------
+# Python cache & compiled files
+# ---------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ---------------------------
+# Virtual environments
+# ---------------------------
+env/
+venv/
+ENV/
+.venv/
+
+# ---------------------------
+# VS Code settings
+# ---------------------------
+.vscode/
+*.code-workspace
+
+# ---------------------------
+# System files (Windows / Mac)
+# ---------------------------
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# ---------------------------
+# Logs
+# ---------------------------
+*.log
+
+# ---------------------------
+# Python environment / dependencies
+# ---------------------------
+pip-wheel-metadata/
+*.egg-info/
+.eggs/
+
+# ---------------------------
+# Test & coverage results
+# ---------------------------
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+
+# ---------------------------
+# Jupyter / Notebooks
+# ---------------------------
+.ipynb_checkpoints/
+
+# ---------------------------
+# Temporary or backup files
+# ---------------------------
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# ---------------------------
+# PyCharm / JetBrains
+# ---------------------------
+.idea/
