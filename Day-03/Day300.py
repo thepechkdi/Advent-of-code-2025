@@ -2,8 +2,7 @@ def max_joltage_for_bank(bank: str) -> int:
     """
     Given a string of digits ('987654321111111'),
     return the maximum 2-digit number you can form
-    by choosing two digits in order (i < j).
-    """
+    by choosing two digits in order (i < j)."""
 
     digits = [int(c) for c in bank.strip()]
     n = len(digits)
@@ -42,4 +41,5 @@ if __name__ == "__main__":
 
     answer = solve_day3(lines)
     print("Total output joltage:", answer)
+
 
