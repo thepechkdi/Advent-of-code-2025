@@ -2,8 +2,7 @@ def is_invalid_id(n: int) -> bool:
     """
     Returns True if the number n is an invalid ID.
     An invalid ID is a number whose digits are composed
-    of some sequence repeated twice.
-    """
+    of some sequence repeated twice."""
 
     s = str(n)                 # Convert number to string
     length = len(s)
@@ -53,4 +52,5 @@ with open("input.text", "r") as f:
 # --- Solve and print the answer ---
 result = solve(input_line)
 print("Answer:", result)
+
 
