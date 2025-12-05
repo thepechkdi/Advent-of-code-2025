@@ -4,13 +4,13 @@
 Welcome to my Advent of Code 2025 repository!
 This project contains my daily Python solutions for the Advent of Code challenges, focusing on:
 
-🧠 Algorithmic problem-solving
+- Algorithmic problem-solving
 
-🧩 Clean and modular code
+- Clean and modular code
 
-📦 Organized folder structure
+- Organized folder structure
 
-✨ Readable, maintainable solutions for Part 1 & Part 2
+- Readable, maintainable solutions for Part 1 & Part 2
 
 Each day is implemented in a separate folder and includes:
 
